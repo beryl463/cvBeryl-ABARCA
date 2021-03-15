@@ -1,0 +1,29 @@
+body{
+     background-image: url("https://i.pinimg.com/736x/9e/04/72/9e047262f8e10622644b310995d5c30c--desktop-backgrounds-blue-and-white.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+}
+
+#photo{
+    width: 100px;
+    height: 100px;
+    float:left
+}
+
+table{
+    border-collapse:collapse
+
+}
+
+td{
+    border: solid black;
+
+}
+#gras{
+    font-weight: bold;
+}
+
+h1{
+    color: blueviolet;
+}
